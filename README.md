@@ -1,33 +1,3 @@
-﻿<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/aspnetcorehero/Boilerplate">
-    <img src="images/boilerplate-logo.png" alt="Logo">
-  </a>
-
-  <h3 align="center">Clean Architecture Boilerplate</h3>
-
-  <p align="center">
-    For ASP.NET Core 5.0 (WebApi & MVC)
-    <br />
-    <a href="https://codewithmukesh.com/blog/aspnet-core-hero-boilerplate-quick-start/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/aspnetcorehero/Boilerplate/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/aspnetcorehero/Boilerplate/issues">Request Feature</a>
-  </p>
-</p>
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
