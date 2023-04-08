@@ -157,44 +157,10 @@ Contributions are what make the open-source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-### Mukesh Murugan
-
--   Blogs at [codewithmukesh.com](https://www.codewithmukesh.com)
--   Facebook - [codewithmukesh](https://www.facebook.com/codewithmukesh)
--   Twitter - [Mukesh Murugan](https://www.twitter.com/iammukeshm)
--   Twitter - [codewithmukesh](https://www.twitter.com/codewithmukesh)
--   Linkedin - [Mukesh Murugan](https://www.linkedin.com/in/iammukeshm/)
-
 ## Support
 
 Has this Project helped you learn something New? or Helped you at work? Do Consider Supporting. Here are a few ways by which you can support.
 
 -   Leave a star! ⭐️
 -   Recommend this awesome project to your colleagues.
--   Do consider endorsing me on LinkedIn for ASP.NET Core - [Connect via LinkedIn](https://codewithmukesh.com/linkedin)
--   Or, If you want to support this project on the long run, consider buying me a coffee.
 
-<a href="https://www.buymeacoffee.com/codewithmukesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"  style="height: 60px !important;width: 200px !important;" ></a>
-
-## Acknowledgements
-
--   [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
--   [Img Shields](https://shields.io)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/aspnetcorehero/Boilerplate.svg?style=flat-square
-[contributors-url]: https://github.com/aspnetcorehero/Boilerplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/aspnetcorehero/Boilerplate?style=flat-square
-[forks-url]: https://github.com/aspnetcorehero/Boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/aspnetcorehero/Boilerplate.svg?style=flat-square
-[stars-url]: https://img.shields.io/github/stars/aspnetcorehero/Boilerplate?style=flat-square
-[issues-shield]: https://img.shields.io/github/issues/aspnetcorehero/Boilerplate?style=flat-square
-[issues-url]: https://github.com/aspnetcorehero/Boilerplate/issues
-[license-shield]: https://img.shields.io/github/license/aspnetcorehero/Boilerplate?style=flat-square
-[license-url]: https://github.com/aspnetcorehero/Boilerplate/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/iammukeshm/
